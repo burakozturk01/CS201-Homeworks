@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618067741 source:d:\bilkent\2thyear\spring\cs201\hw2\homework2\hw2.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<time.h>
+

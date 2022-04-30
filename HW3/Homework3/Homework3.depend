@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1620064834 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\main.cpp
+	<iostream>
+	"MovieBookingSystem.h"
+
+1620063822 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\reservationlist.cpp
+	<iostream>
+	<cstddef>
+	"ReservationList.h"
+
+1620062820 d:\bilkent\2thyear\spring\cs201\hw3\homework3\reservationlist.h
+
+1620049656 d:\bilkent\2thyear\spring\cs201\hw3\homework3\seats.h
+
+1620049746 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\seats.cpp
+	<iostream>
+	<cstddef>
+	"Seats.h"
+
+1620049780 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\movie.cpp
+	<iostream>
+	<cstddef>
+	<ctime>
+	"Seats.h"
+	"Movie.h"
+
+1620057899 d:\bilkent\2thyear\spring\cs201\hw3\homework3\movie.h
+	<iostream>
+	"seats.h"
+
+1620046647 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\movielist.cpp
+	<iostream>
+	<cstddef>
+	"Movie.h"
+	"MovieList.h"
+
+1620046220 d:\bilkent\2thyear\spring\cs201\hw3\homework3\movielist.h
+	"Movie.h"
+
+1620064908 source:d:\bilkent\2thyear\spring\cs201\hw3\homework3\moviebookingsystem.cpp
+	<iostream>
+	<cstddef>
+	"MovieBookingSystem.h"
+
+1620062998 d:\bilkent\2thyear\spring\cs201\hw3\homework3\moviebookingsystem.h
+	"ReservationList.h"
+	"MovieList.h"
+

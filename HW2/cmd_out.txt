@@ -1,0 +1,210 @@
+Duration of Iterative Linear Search with array length 10 for the case a is 4e-006 milliseconds.
+Duration of Iterative Linear Search with array length 20 for the case a is 8e-006 milliseconds.
+Duration of Iterative Linear Search with array length 50 for the case a is 2e-005 milliseconds.
+Duration of Iterative Linear Search with array length 100 for the case a is 2e-005 milliseconds.
+Duration of Iterative Linear Search with array length 200 for the case a is 8e-005 milliseconds.
+Duration of Iterative Linear Search with array length 500 for the case a is 0.0001 milliseconds.
+Duration of Iterative Linear Search with array length 1000 for the case a is 0.0002 milliseconds.
+Duration of Iterative Linear Search with array length 1500 for the case a is 0.00030003 milliseconds.
+Duration of Iterative Linear Search with array length 2500 for the case a is 0.0005 milliseconds.
+Duration of Iterative Linear Search with array length 5000 for the case a is 0.001 milliseconds.
+Duration of Iterative Linear Search with array length 10000 for the case a is 0.002 milliseconds.
+Duration of Iterative Linear Search with array length 12345 for the case a is 0.00246914 milliseconds.
+
+Duration of Iterative Linear Search with array length 10 for the case b is 1e-005 milliseconds.
+Duration of Iterative Linear Search with array length 20 for the case b is 2e-005 milliseconds.
+Duration of Iterative Linear Search with array length 50 for the case b is 6e-005 milliseconds.
+Duration of Iterative Linear Search with array length 100 for the case b is 0.0001 milliseconds.
+Duration of Iterative Linear Search with array length 200 for the case b is 0.0002 milliseconds.
+Duration of Iterative Linear Search with array length 500 for the case b is 0.0005 milliseconds.
+Duration of Iterative Linear Search with array length 1000 for the case b is 0.001 milliseconds.
+Duration of Iterative Linear Search with array length 1500 for the case b is 0.00120012 milliseconds.
+Duration of Iterative Linear Search with array length 2500 for the case b is 0.0025 milliseconds.
+Duration of Iterative Linear Search with array length 5000 for the case b is 0.005 milliseconds.
+Duration of Iterative Linear Search with array length 10000 for the case b is 0.008 milliseconds.
+Duration of Iterative Linear Search with array length 12345 for the case b is 0.0123457 milliseconds.
+
+Duration of Iterative Linear Search with array length 10 for the case c is 1.6e-005 milliseconds.
+Duration of Iterative Linear Search with array length 20 for the case c is 3.6e-005 milliseconds.
+Duration of Iterative Linear Search with array length 50 for the case c is 9e-005 milliseconds.
+Duration of Iterative Linear Search with array length 100 for the case c is 0.00018 milliseconds.
+Duration of Iterative Linear Search with array length 200 for the case c is 0.00036 milliseconds.
+Duration of Iterative Linear Search with array length 500 for the case c is 0.0009 milliseconds.
+Duration of Iterative Linear Search with array length 1000 for the case c is 0.0018 milliseconds.
+Duration of Iterative Linear Search with array length 1500 for the case c is 0.00270027 milliseconds.
+Duration of Iterative Linear Search with array length 2500 for the case c is 0.0045 milliseconds.
+Duration of Iterative Linear Search with array length 5000 for the case c is 0.008 milliseconds.
+Duration of Iterative Linear Search with array length 10000 for the case c is 0.016 milliseconds.
+Duration of Iterative Linear Search with array length 12345 for the case c is 0.0197531 milliseconds.
+
+Duration of Iterative Linear Search with array length 10 for the case d is 1.6e-005 milliseconds.
+Duration of Iterative Linear Search with array length 20 for the case d is 4.4e-005 milliseconds.
+Duration of Iterative Linear Search with array length 50 for the case d is 9e-005 milliseconds.
+Duration of Iterative Linear Search with array length 100 for the case d is 0.0002 milliseconds.
+Duration of Iterative Linear Search with array length 200 for the case d is 0.0004 milliseconds.
+Duration of Iterative Linear Search with array length 500 for the case d is 0.0009 milliseconds.
+Duration of Iterative Linear Search with array length 1000 for the case d is 0.0018 milliseconds.
+Duration of Iterative Linear Search with array length 1500 for the case d is 0.0030003 milliseconds.
+Duration of Iterative Linear Search with array length 2500 for the case d is 0.005 milliseconds.
+Duration of Iterative Linear Search with array length 5000 for the case d is 0.01 milliseconds.
+Duration of Iterative Linear Search with array length 10000 for the case d is 0.018 milliseconds.
+Duration of Iterative Linear Search with array length 12345 for the case d is 0.0222222 milliseconds.
+
+
+Duration of Recursive Linear Search with array length 10 for the case a is 6e-006 milliseconds.
+Duration of Recursive Linear Search with array length 20 for the case a is 8e-006 milliseconds.
+Duration of Recursive Linear Search with array length 50 for the case a is 2e-005 milliseconds.
+Duration of Recursive Linear Search with array length 100 for the case a is 4e-005 milliseconds.
+Duration of Recursive Linear Search with array length 200 for the case a is 8e-005 milliseconds.
+Duration of Recursive Linear Search with array length 500 for the case a is 0.0003 milliseconds.
+Duration of Recursive Linear Search with array length 1000 for the case a is 0.0006 milliseconds.
+Duration of Recursive Linear Search with array length 1500 for the case a is 0.00090009 milliseconds.
+Duration of Recursive Linear Search with array length 2500 for the case a is 0.002 milliseconds.
+Duration of Recursive Linear Search with array length 5000 for the case a is 0.003 milliseconds.
+Duration of Recursive Linear Search with array length 10000 for the case a is 0.006 milliseconds.
+Duration of Recursive Linear Search with array length 12345 for the case a is 0.00740741 milliseconds.
+
+Duration of Recursive Linear Search with array length 10 for the case b is 1.8e-005 milliseconds.
+Duration of Recursive Linear Search with array length 20 for the case b is 3.2e-005 milliseconds.
+Duration of Recursive Linear Search with array length 50 for the case b is 0.00014 milliseconds.
+Duration of Recursive Linear Search with array length 100 for the case b is 0.0003 milliseconds.
+Duration of Recursive Linear Search with array length 200 for the case b is 0.0006 milliseconds.
+Duration of Recursive Linear Search with array length 500 for the case b is 0.0016 milliseconds.
+Duration of Recursive Linear Search with array length 1000 for the case b is 0.0032 milliseconds.
+Duration of Recursive Linear Search with array length 1500 for the case b is 0.00510051 milliseconds.
+Duration of Recursive Linear Search with array length 2500 for the case b is 0.0085 milliseconds.
+Duration of Recursive Linear Search with array length 5000 for the case b is 0.017 milliseconds.
+Duration of Recursive Linear Search with array length 10000 for the case b is 0.034 milliseconds.
+Duration of Recursive Linear Search with array length 12345 for the case b is 0.0444444 milliseconds.
+
+Duration of Recursive Linear Search with array length 10 for the case c is 3.2e-005 milliseconds.
+Duration of Recursive Linear Search with array length 20 for the case c is 6e-005 milliseconds.
+Duration of Recursive Linear Search with array length 50 for the case c is 0.00027 milliseconds.
+Duration of Recursive Linear Search with array length 100 for the case c is 0.00054 milliseconds.
+Duration of Recursive Linear Search with array length 200 for the case c is 0.00112 milliseconds.
+Duration of Recursive Linear Search with array length 500 for the case c is 0.0028 milliseconds.
+Duration of Recursive Linear Search with array length 1000 for the case c is 0.0056 milliseconds.
+Duration of Recursive Linear Search with array length 1500 for the case c is 0.00870087 milliseconds.
+Duration of Recursive Linear Search with array length 2500 for the case c is 0.0145 milliseconds.
+Duration of Recursive Linear Search with array length 5000 for the case c is 0.029 milliseconds.
+Duration of Recursive Linear Search with array length 10000 for the case c is 0.058 milliseconds.
+Duration of Recursive Linear Search with array length 12345 for the case c is 0.0740741 milliseconds.
+
+Duration of Recursive Linear Search with array length 10 for the case d is 3.2e-005 milliseconds.
+Duration of Recursive Linear Search with array length 20 for the case d is 6.4e-005 milliseconds.
+Duration of Recursive Linear Search with array length 50 for the case d is 0.0003 milliseconds.
+Duration of Recursive Linear Search with array length 100 for the case d is 0.0006 milliseconds.
+Duration of Recursive Linear Search with array length 200 for the case d is 0.0012 milliseconds.
+Duration of Recursive Linear Search with array length 500 for the case d is 0.0031 milliseconds.
+Duration of Recursive Linear Search with array length 1000 for the case d is 0.0062 milliseconds.
+Duration of Recursive Linear Search with array length 1500 for the case d is 0.00930093 milliseconds.
+Duration of Recursive Linear Search with array length 2500 for the case d is 0.0155 milliseconds.
+Duration of Recursive Linear Search with array length 5000 for the case d is 0.032 milliseconds.
+Duration of Recursive Linear Search with array length 10000 for the case d is 0.064 milliseconds.
+Duration of Recursive Linear Search with array length 12345 for the case d is 0.0790123 milliseconds.
+
+
+Duration of Binary Search with array length 10 for the case a is 8.08e-006 milliseconds.
+Duration of Binary Search with array length 20 for the case a is 1.336e-005 milliseconds.
+Duration of Binary Search with array length 50 for the case a is 1.02e-005 milliseconds.
+Duration of Binary Search with array length 100 for the case a is 2.08e-005 milliseconds.
+Duration of Binary Search with array length 200 for the case a is 1.84e-005 milliseconds.
+Duration of Binary Search with array length 500 for the case a is 2.8e-005 milliseconds.
+Duration of Binary Search with array length 1000 for the case a is 2e-005 milliseconds.
+Duration of Binary Search with array length 1500 for the case a is 1.80001e-005 milliseconds.
+Duration of Binary Search with array length 2500 for the case a is 4e-005 milliseconds.
+Duration of Binary Search with array length 5000 for the case a is 4e-005 milliseconds.
+Duration of Binary Search with array length 10000 for the case a is 4e-005 milliseconds.
+Duration of Binary Search with array length 12345 for the case a is 4.93803e-005 milliseconds.
+
+Duration of Binary Search with array length 10 for the case b is 9.88e-006 milliseconds.
+Duration of Binary Search with array length 20 for the case b is 1.288e-005 milliseconds.
+Duration of Binary Search with array length 50 for the case b is 1.62e-005 milliseconds.
+Duration of Binary Search with array length 100 for the case b is 5.6e-006 milliseconds.
+Duration of Binary Search with array length 200 for the case b is 2.24e-005 milliseconds.
+Duration of Binary Search with array length 500 for the case b is 2.6e-005 milliseconds.
+Duration of Binary Search with array length 1000 for the case b is 2.8e-005 milliseconds.
+Duration of Binary Search with array length 1500 for the case b is 4.80002e-005 milliseconds.
+Duration of Binary Search with array length 2500 for the case b is 4e-005 milliseconds.
+Duration of Binary Search with array length 5000 for the case b is 4e-005 milliseconds.
+Duration of Binary Search with array length 10000 for the case b is 4e-005 milliseconds.
+Duration of Binary Search with array length 12345 for the case b is 4.93803e-005 milliseconds.
+
+Duration of Binary Search with array length 10 for the case c is 1.216e-005 milliseconds.
+Duration of Binary Search with array length 20 for the case c is 1.208e-005 milliseconds.
+Duration of Binary Search with array length 50 for the case c is 1.74e-005 milliseconds.
+Duration of Binary Search with array length 100 for the case c is 1.52e-005 milliseconds.
+Duration of Binary Search with array length 200 for the case c is 1.52e-005 milliseconds.
+Duration of Binary Search with array length 500 for the case c is 2.4e-005 milliseconds.
+Duration of Binary Search with array length 1000 for the case c is 3.2e-005 milliseconds.
+Duration of Binary Search with array length 1500 for the case c is 3.00001e-005 milliseconds.
+Duration of Binary Search with array length 2500 for the case c is 3e-005 milliseconds.
+Duration of Binary Search with array length 5000 for the case c is 2e-005 milliseconds.
+Duration of Binary Search with array length 10000 for the case c is 4e-005 milliseconds.
+Duration of Binary Search with array length 12345 for the case c is 4.93803e-005 milliseconds.
+
+Duration of Binary Search with array length 10 for the case d is 1.144e-005 milliseconds.
+Duration of Binary Search with array length 20 for the case d is 1.384e-005 milliseconds.
+Duration of Binary Search with array length 50 for the case d is 1.74e-005 milliseconds.
+Duration of Binary Search with array length 100 for the case d is 1.96e-005 milliseconds.
+Duration of Binary Search with array length 200 for the case d is 2.32e-005 milliseconds.
+Duration of Binary Search with array length 500 for the case d is 2.8e-005 milliseconds.
+Duration of Binary Search with array length 1000 for the case d is 3.2e-005 milliseconds.
+Duration of Binary Search with array length 1500 for the case d is 3.00001e-005 milliseconds.
+Duration of Binary Search with array length 2500 for the case d is 3e-005 milliseconds.
+Duration of Binary Search with array length 5000 for the case d is 4e-005 milliseconds.
+Duration of Binary Search with array length 10000 for the case d is 4e-005 milliseconds.
+Duration of Binary Search with array length 12345 for the case d is 4.93803e-005 milliseconds.
+
+
+Duration of Jump Search with array length 10 for the case a is 3.6e-005 milliseconds.
+Duration of Jump Search with array length 20 for the case a is 3.8e-005 milliseconds.
+Duration of Jump Search with array length 50 for the case a is 4.5e-005 milliseconds.
+Duration of Jump Search with array length 100 for the case a is 7e-005 milliseconds.
+Duration of Jump Search with array length 200 for the case a is 8e-005 milliseconds.
+Duration of Jump Search with array length 500 for the case a is 0.00015 milliseconds.
+Duration of Jump Search with array length 1000 for the case a is 0.0001 milliseconds.
+Duration of Jump Search with array length 1500 for the case a is 0.000150015 milliseconds.
+Duration of Jump Search with array length 2500 for the case a is 0.00025 milliseconds.
+Duration of Jump Search with array length 5000 for the case a is 0.0005 milliseconds.
+Duration of Jump Search with array length 10000 for the case a is 0.001 milliseconds.
+Duration of Jump Search with array length 12345 for the case a is 0 milliseconds.
+
+Duration of Jump Search with array length 10 for the case b is 6.7e-005 milliseconds.
+Duration of Jump Search with array length 20 for the case b is 9.4e-005 milliseconds.
+Duration of Jump Search with array length 50 for the case b is 0.00013 milliseconds.
+Duration of Jump Search with array length 100 for the case b is 0.00018 milliseconds.
+Duration of Jump Search with array length 200 for the case b is 0.00026 milliseconds.
+Duration of Jump Search with array length 500 for the case b is 0.0004 milliseconds.
+Duration of Jump Search with array length 1000 for the case b is 0.0005 milliseconds.
+Duration of Jump Search with array length 1500 for the case b is 0.00060006 milliseconds.
+Duration of Jump Search with array length 2500 for the case b is 0.00075 milliseconds.
+Duration of Jump Search with array length 5000 for the case b is 0.0015 milliseconds.
+Duration of Jump Search with array length 10000 for the case b is 0.002 milliseconds.
+Duration of Jump Search with array length 12345 for the case b is 0.00246914 milliseconds.
+
+Duration of Jump Search with array length 10 for the case c is 0.000118 milliseconds.
+Duration of Jump Search with array length 20 for the case c is 0.000164 milliseconds.
+Duration of Jump Search with array length 50 for the case c is 0.000225 milliseconds.
+Duration of Jump Search with array length 100 for the case c is 0.0003 milliseconds.
+Duration of Jump Search with array length 200 for the case c is 0.00042 milliseconds.
+Duration of Jump Search with array length 500 for the case c is 0.0006 milliseconds.
+Duration of Jump Search with array length 1000 for the case c is 0.0009 milliseconds.
+Duration of Jump Search with array length 1500 for the case c is 0.00105011 milliseconds.
+Duration of Jump Search with array length 2500 for the case c is 0.00125 milliseconds.
+Duration of Jump Search with array length 5000 for the case c is 0.002 milliseconds.
+Duration of Jump Search with array length 10000 for the case c is 0.003 milliseconds.
+Duration of Jump Search with array length 12345 for the case c is 0.0037037 milliseconds.
+
+Duration of Jump Search with array length 10 for the case d is 0.000143 milliseconds.
+Duration of Jump Search with array length 20 for the case d is 0.000182 milliseconds.
+Duration of Jump Search with array length 50 for the case d is 0.00026 milliseconds.
+Duration of Jump Search with array length 100 for the case d is 0.00032 milliseconds.
+Duration of Jump Search with array length 200 for the case d is 0.00046 milliseconds.
+Duration of Jump Search with array length 500 for the case d is 0.0007 milliseconds.
+Duration of Jump Search with array length 1000 for the case d is 0.001 milliseconds.
+Duration of Jump Search with array length 1500 for the case d is 0.00105011 milliseconds.
+Duration of Jump Search with array length 2500 for the case d is 0.0015 milliseconds.
+Duration of Jump Search with array length 5000 for the case d is 0.002 milliseconds.
+Duration of Jump Search with array length 10000 for the case d is 0.003 milliseconds.
+Duration of Jump Search with array length 12345 for the case d is 0.0037037 milliseconds.

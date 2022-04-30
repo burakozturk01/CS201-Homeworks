@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1621014118 source:d:\bilkent\2thyear\spring\cs201\hw4\homework4\main.cpp
+	<iostream>
+	"StrangeCalculator.h"
+	"CharStack.h"
+
+1620779172 source:d:\bilkent\2thyear\spring\cs201\hw4\homework4\stack.cpp
+	<cstddef>
+	"Stack.h"
+
+1620777337 d:\bilkent\2thyear\spring\cs201\hw4\homework4\stack.h
+
+1621014184 source:d:\bilkent\2thyear\spring\cs201\hw4\homework4\strangecalculator.cpp
+	<iostream>
+	"StrangeCalculator.h"
+
+1621016177 d:\bilkent\2thyear\spring\cs201\hw4\homework4\strangecalculator.h
+	<iostream>
+	"CharStack.h"
+	"DoubleStack.h"
+
+1620782959 d:\bilkent\2thyear\spring\cs201\hw4\homework4\charstack.h
+
+1620783019 d:\bilkent\2thyear\spring\cs201\hw4\homework4\doublestack.h
+
+1620782400 source:d:\bilkent\2thyear\spring\cs201\hw4\homework4\charstack.cpp
+	<cstddef>
+	"CharStack.h"
+
+1620783040 source:d:\bilkent\2thyear\spring\cs201\hw4\homework4\doublestack.cpp
+	<cstddef>
+	"DoubleStack.h"
+

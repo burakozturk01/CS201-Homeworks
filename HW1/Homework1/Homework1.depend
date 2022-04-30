@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1616438368 source:d:\bilkent\2thyear\spring\cs201\hw1\homework1\main.cpp
+	<iostream>
+	<ctime>
+	"MovieBookingSystem.h"
+
+1616434986 d:\bilkent\2thyear\spring\cs201\hw1\homework1\movie.cpp
+	<iostream>
+	<ctime>
+
+1616440352 source:d:\bilkent\2thyear\spring\cs201\hw1\homework1\movie.cpp
+	<iostream>
+	<ctime>
+	"Movie.h"
+
+1616440497 source:d:\bilkent\2thyear\spring\cs201\hw1\homework1\moviebookingsystem.cpp
+	<iostream>
+	<ctime>
+	"MovieBookingSystem.h"
+	"Movie.h"
+
+1616438080 d:\bilkent\2thyear\spring\cs201\hw1\homework1\moviebookingsystem.cpp
+	<iostream>
+	<ctime>
+	"MovieBookingSystem.h"
+
+1616438930 d:\bilkent\2thyear\spring\cs201\hw1\homework1\moviebookingsystem.h
+	<iostream>
+	<ctime>
+	"Movie.h"
+
+1616438925 d:\bilkent\2thyear\spring\cs201\hw1\homework1\movie.h
+	<iostream>
+	<ctime>
+
